@@ -390,6 +390,16 @@ crisp:
 
 # Footer Settings
 # --------------------------------------
+ICP:
+  enable: true  # 是否启用ICP
+  url: https://beian.miit.gov.cn/  # 点击后的链接地址
+  text: 冀ICP备2021023141号-1  # 备案号
+  icon:    # 图标
+NSP:
+  enable: false   # 是否启用NSP
+  url: http://www.beian.gov.cn/  # 点击后的链接地址
+  text: 京公网安备 xxxxx号    # 公安备案号
+  icon: http://www.beian.gov.cn/img/new/gongan.png  # 图标
 footer:
   owner:
     enable: true
@@ -425,10 +435,10 @@ microsoft_clarity:
 
 # Google Adsense (谷歌廣告)
 google_adsense:
-  enable: false
+  enable: true
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client:
+  client: ca-pub-4212416404238058
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
