@@ -416,7 +416,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-QT1N47BFL3
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -428,7 +428,7 @@ cloudflare_analytics:
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
-microsoft_clarity:
+microsoft_clarity: ap6lyeob6w
 
 # Advertisement
 # --------------------------------------
